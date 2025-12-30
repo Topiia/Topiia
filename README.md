@@ -1,16 +1,22 @@
-## Hi there 👋
+💫 About Me:
+I am a web developer working with JavaScript and React, focused on building and debugging small frontend applications.
 
-<!--
-**Topiia/Topiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience integrating external APIs, handling real-time data updates, and rendering data-driven UIs.
 
-Here are some ideas to get you started:
+Currently, I am focusing on improving code reliability, fixing bugs, and understanding real-world application behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Contact:
+devlop426@gmail.com
+
+💻 Tech Stack:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Python
+
+
+
+

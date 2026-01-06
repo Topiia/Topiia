@@ -27,5 +27,3 @@ REST APIs
 WebSockets
 Async data handling
 
-🌐 Contact
-📧 Email: devlop426@gmail.com

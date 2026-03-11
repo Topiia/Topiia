@@ -1,29 +1,55 @@
-💫 About Me
+# 💫 About Me
 
-I am a web developer focused on debugging, stabilizing, and optimizing frontend applications, with backend support when required.
+Full Stack Engineer focused on building production-grade platforms with security-first backends, real-time distributed systems, and modern React frontends.
 
-I work primarily with JavaScript and React, handling real-world issues such as UI bugs, broken state flows, performance bottlenecks, and unreliable real-time updates. I also work with Python backends to diagnose and fix issues that directly impact frontend behavior, including API responses, async flows, and WebSocket connections.
+I build end-to-end systems — from stateless JWT authentication and async worker pipelines to optimistic UI frontends with TanStack Query. My work emphasizes production observability, scalable architecture, and code that holds up under real-world conditions.
 
-My current focus is on code reliability, long-running application stability, and production-style bug fixing, ensuring applications behave predictably under real usage conditions.
+Currently open to backend, full stack, and distributed systems roles.
 
-🛠 What I Work On
-Fixing frontend bugs and runtime errors
-Debugging React state, rendering, and performance issues
-Handling real-time data updates (WebSockets, live feeds)
-Diagnosing frontend–backend integration problems
-Improving stability and resource efficiency in long-running apps
+---
 
-💻 Tech Stack
-Frontend
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Tailwind CSS
-Backend / Support
-Python
-REST APIs
-WebSockets
-Async data handling
+## 🛠 What I Build
 
+- Production-grade backends with Node.js, Express, Django, and FastAPI
+- Security-first authentication systems — JWT rotation, HttpOnly cookies, refresh token reuse detection
+- Async worker pipelines with Redis, Bull Queues, and Dead-Letter Queue monitoring
+- Real-time systems with WebSockets, Socket.IO, and AsyncIO
+- Full stack React frontends with TanStack Query, optimistic UI, and Framer Motion
+- Production observability stacks — Prometheus, Sentry, Winston, correlation ID tracing
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+React 18 • Next.js 14 • TypeScript • Vite • TanStack Query • Redux Toolkit • Framer Motion • Tailwind CSS
+
+**Backend**
+Node.js • Express.js • Python • Django • FastAPI • REST API Design • JWT • Zod
+
+**Real-Time & Distributed**
+WebSockets • Socket.IO • AsyncIO • Redis • Bull Queues • Event-Driven Architecture • Microservices
+
+**Databases**
+MongoDB • PostgreSQL • Redis • Mongoose ODM
+
+**Observability & DevOps**
+Prometheus • Sentry • Winston • OpenTelemetry • Docker • CI/CD • Jest • Supertest • Git
+
+---
+
+## 🚀 Flagship Project
+
+**Capsule** — Secure AI-Moderated Full Stack Media Platform
+
+Production-grade vlogging platform implementing JWT rotation, Redis-backed Bull queues, AI moderation pipelines, Prometheus metrics, Sentry monitoring, and 162/162 passing tests.
+
+🔗 [Live](https://capsule.topiiaa.site) • [GitHub](https://github.com/Topiia/Capsule)
+
+---
+
+## 📬 Contact
+
+- Portfolio: [topiiaa.site](https://topiiaa.site)
+- Email: ankitsinghak3028@gmail.com
+- LinkedIn: [linkedin.com/in/ankit-singh](https://linkedin.com/in/ankit-singh)

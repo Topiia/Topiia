@@ -52,4 +52,4 @@ Production-grade vlogging platform implementing JWT rotation, Redis-backed Bull 
 
 - Portfolio: [topiiaa.site](https://topiiaa.site)
 - Email: ankitsinghak3028@gmail.com
-- LinkedIn: [linkedin.com/in/ankit-singh](https://linkedin.com/in/ankit-singh)
+- LinkedIn: [linkedin.com/in/ankit-singh](www.linkedin.com/in/ankit-singh-b7227928a)

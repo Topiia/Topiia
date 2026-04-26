@@ -1,55 +1,61 @@
 # 💫 About Me
 
-Full Stack Engineer focused on building production-grade platforms with security-first backends, real-time distributed systems, and modern React frontends.
+Full Stack Developer building end-to-end web applications using modern frameworks and AI-assisted development workflows.
 
-I build end-to-end systems — from stateless JWT authentication and async worker pipelines to optimistic UI frontends with TanStack Query. My work emphasizes production observability, scalable architecture, and code that holds up under real-world conditions.
+I focus on backend systems, API design, and integrating AI services into real-world applications. I’ve built projects involving authentication systems, async processing, and data pipelines, with a strong emphasis on debugging and system reliability.
 
-Currently open to backend, full stack, and distributed systems roles.
+Currently looking for backend, full stack, and AI-integrated development roles.
 
 ---
 
-## 🛠 What I Build
+## 🛠 What I Work On
 
-- Production-grade backends with Node.js, Express, Django, and FastAPI
-- Security-first authentication systems — JWT rotation, HttpOnly cookies, refresh token reuse detection
-- Async worker pipelines with Redis, Bull Queues, and Dead-Letter Queue monitoring
-- Real-time systems with WebSockets, Socket.IO, and AsyncIO
-- Full stack React frontends with TanStack Query, optimistic UI, and Framer Motion
-- Production observability stacks — Prometheus, Sentry, Winston, correlation ID tracing
+- Backend systems using Node.js, Express, FastAPI, and Django  
+- REST APIs with authentication (JWT, cookies, secure flows)  
+- Async processing using Redis and queue-based workflows  
+- Full stack apps with React and API integration  
+- AI integrations using external APIs for automation and content processing  
+- Debugging production issues and improving system stability  
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend**
-React 18 • Next.js 14 • TypeScript • Vite • TanStack Query • Redux Toolkit • Framer Motion • Tailwind CSS
+**Frontend**  
+React • JavaScript • TypeScript • Tailwind CSS • TanStack Query  
 
-**Backend**
-Node.js • Express.js • Python • Django • FastAPI • REST API Design • JWT • Zod
+**Backend**  
+Node.js • Express • Python • FastAPI • Django • REST APIs  
 
-**Real-Time & Distributed**
-WebSockets • Socket.IO • AsyncIO • Redis • Bull Queues • Event-Driven Architecture • Microservices
+**Database**  
+MongoDB • PostgreSQL • Redis  
 
-**Databases**
-MongoDB • PostgreSQL • Redis • Mongoose ODM
+**Tools**  
+Git • Docker • CI/CD • Sentry  
 
-**Observability & DevOps**
-Prometheus • Sentry • Winston • OpenTelemetry • Docker • CI/CD • Jest • Supertest • Git
+**AI Tools**  
+ChatGPT • Claude • Gemini (for development, debugging, and workflow automation)
 
 ---
 
-## 🚀 Flagship Project
+## 🚀 Featured Project
 
-**Capsule** — Secure AI-Moderated Full Stack Media Platform
+**Capsule — AI Moderation Platform**
 
-Production-grade vlogging platform implementing JWT rotation, Redis-backed Bull queues, AI moderation pipelines, Prometheus metrics, Sentry monitoring, and 162/162 passing tests.
+Full stack app with authentication, async processing, and AI-based content moderation.
 
-🔗 [Live](https://capsule.topiiaa.site) • [GitHub](https://github.com/Topiia/Capsule)
+- JWT authentication with secure cookie handling  
+- Redis-based background jobs for async tasks  
+- AI API integration for content moderation  
+- Built full frontend + backend and handled deployment and debugging  
+
+🔗 https://capsule.topiiaa.site  
+🔗 https://github.com/Topiia/Capsule  
 
 ---
 
 ## 📬 Contact
 
-- Portfolio: [topiiaa.site](https://topiiaa.site)
-- Email: ankitsinghak3028@gmail.com
-- LinkedIn: www.linkedin.com/in/ankit-singh-b7227928a
+- Portfolio: https://topiiaa.site  
+- Email: ankitsinghak3028@gmail.com  
+- LinkedIn: https://linkedin.com/in/ankit-singh-b7227928a  
